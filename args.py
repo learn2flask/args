@@ -1,5 +1,5 @@
 
-def main(*args):
+def main(args):
     print("args:")
     for a in args:
         print(a)
